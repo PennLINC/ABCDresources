@@ -5,3 +5,5 @@ These resources are largely taken from the freely-available materials from the A
 Please continue to add resources to this stockpile!
 
 https://github.com/PennLINC/ABCDresources
+
+Another useful resource:  https://now-i-know-my-abcd.github.io/docs/intro.html
